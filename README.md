@@ -1,4 +1,4 @@
-# Healthcare_PowerBi_Dashboard
+# HealthCare_PowerBi_Dashboard
 
 This project provides a comprehensive Healthcare Dashboard built in Power BI to help Hospital Management Teams track and analyze critical hospital metrics. The dashboard integrates data visualizations and KPIs to monitor patient visits, resource availability, revenue, appointment waiting times, and feedback on medical services, supporting data-driven decision-making.
 
